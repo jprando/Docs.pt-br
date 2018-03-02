@@ -20,7 +20,7 @@ ms.lasthandoff: 01/30/2018
 
 Por [Scott Addie](https://github.com/scottaddie) e [Fiyaz Hasan](http://fiyazhasan.me/)
 
-Um aplicativo de página única (SPA) é um tipo popular de aplicativo da web devido a sua experiência de usuário avançada inerente. Integração de estruturas SPA ou bibliotecas de cliente, como [Angular](https://angular.io/) ou [reagir](https://facebook.github.io/react/), com as estruturas do lado do servidor como o ASP.NET Core pode ser difícil. [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) foi desenvolvido para reduzir a fricção no processo de integração. Ele permite que uma operação contínua entre o cliente diferentes e pilhas de tecnologia do servidor.
+Um aplicativo de página única (SPA) é um tipo popular de aplicativo da web devido a sua experiência de usuário avançada inerente. Integração de estruturas SPA ou bibliotecas de cliente, como [Angular](https://angular.io/) ou [React](https://facebook.github.io/react/), com as estruturas do lado do servidor como o ASP.NET Core pode ser difícil. [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) foi desenvolvido para reduzir a fricção no processo de integração. Ele permite que uma operação contínua entre o cliente diferentes e pilhas de tecnologia do servidor.
 
 [Exibir ou baixar código de exemplo](https://github.com/aspnet/Docs/tree/master/aspnetcore/client-side/spa-services/sample) ([como baixar](xref:tutorials/index#how-to-download-a-sample))
 
